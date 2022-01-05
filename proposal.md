@@ -4,11 +4,11 @@
 ### Question/need:
 #### What is the framing question of your analysis, or the purpose of the model/system you plan to build?
 
-What patterns and changes in commuter behavior occcured during the COVID-19 pandemic in NYC, and how can that information be used to better position COVID-19 testing sites for MTA users?
+What patterns and changes in commuter behavior occured during the COVID-19 pandemic in NYC, and how can that information be used to better position COVID-19 testing sites for MTA users?
 
 #### Who benefits from exploring this question or building this model/system?
 
-govermentally-run COVID testing programs (both city and state led), as well as partnered testing programs and nonprofits working on increasing testing availability in NYC.
+Govermentally-run COVID testing programs (both city and state led), as well as partnered testing programs and nonprofits working on increasing testing availability in NYC.
 
 ### Data Description:
 #### What dataset(s) do you plan to use, and how will you obtain the data?
@@ -38,7 +38,7 @@ I expect to find a large shift in the demographic spread and income level of reg
 ### Tools:
 #### How do you intend to meet the tools requirement of the project?
 
-I plan to clean and organize the datasets using SQL and Pandas, and use Mattplotlib and Seaborn to create visualizations.
+I plan to clean and organize the datasets using SQL and Pandas, and use Matplotlib and Seaborn to create visualizations.
 
 #### Are you planning in advance to need or use additional tools beyond those required?
 
